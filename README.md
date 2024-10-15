@@ -1,2 +1,2 @@
-## Data Scientist
-# Education
+# Data Scientist
+## Education
