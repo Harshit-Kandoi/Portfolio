@@ -4,8 +4,6 @@ plugins:
 
 title: Harshit Kandoi
 logo: /assets/Circle_2.png
-description: >
-  Aspiring Data Scientist passionate about building data-driven solutions.
 
 show_downloads: true
 theme: jekyll-theme-minimal
