@@ -1,10 +1,13 @@
-## **Welcome To My Portfolio**   👨‍💻📊  
-🌐 [Visit My GitHub Profile](https://github.com/Harshit-Kandoi)
-📄 [Download My Resume](https://github.com/Harshit-Kandoi/Portfolio/assets/Resume.pdf)
+## **Welcome To My Portfolio**   👨‍💻  
+
 
 ---
 
-## 🌟 Check Out My Portfolio
+## 👨‍💻 Check Out My Portfolio
+🌐 [Visit My GitHub Profile](https://github.com/Harshit-Kandoi)
+📄 [Download My Resume](https://github.com/Harshit-Kandoi/Portfolio/assets/Resume.pdf)
+
+## 🌟 Table of Content
 1. [About Me](#-about-me)
 2. [Education](#education)
 3. [Experience](#experience)
