@@ -5,9 +5,17 @@ plugins:
 title: Harshit Kandoi
 logo: /assets/Circle_2.png
 description: >
-  Aspiring Data Scientist passionate about building data-driven solutions.  
-  🌐 [Visit My GitHub Profile](https://github.com/Harshit-Kandoi)  
-  📄 [Download My Resume](https://github.com/Harshit-Kandoi/Portfolio/assets/Resume.pdf)  
+  Aspiring Data Scientist passionate about building data-driven solutions.
 
 show_downloads: false  # Disabled for the project repo
 theme: jekyll-theme-minimal
+
+# Adding buttons for GitHub Profile and Resume
+header_buttons:
+  - text: "GitHub Profile"
+    url: "https://github.com/Harshit-Kandoi"
+    icon: "fab fa-github"
+
+  - text: "Download Resume"
+    url: "https://github.com/Harshit-Kandoi/Portfolio/assets/Resume.pdf"
+    icon: "fas fa-file-alt"
