@@ -1,5 +1,4 @@
-## Harshit Kandoi  
-### **Aspiring Data Scientist**   👨‍💻📊  
+## **Aspiring Data Scientist**   👨‍💻📊  
 ![Python](https://img.shields.io/badge/Python-Expert-brightgreen) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enthusiast-blue) ![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)  
 
 Welcome to my portfolio! 🚀 I'm an aspiring **Data Scientist** passionate about building **data-driven solutions** to solve real-world problems. With hands-on experience in **Machine Learning, Deep Learning**, and **Data Analysis**, I strive to craft innovative projects that bring measurable impact.  
