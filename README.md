@@ -17,14 +17,28 @@ Welcome to my portfolio! 🚀 I'm an aspiring **Data Scientist** passionate abou
 
 ## 🙋 About Me  
 
-- 🎓 **B.Tech in Computer Science and Engineering (Data Science)**  
-  **B.K. Birla Institute of Engineering and Technology, Pilani (Sept 2021 – Aug 2025)**  
-  **CGPA:** 7.95/10  
+### 🎓 Education  
+- **B.Tech in Computer Science and Engineering (Data Science)**  
+  **B.K. Birla Institute of Engineering and Technology, Pilani**  
+  *(Sept 2021 – Aug 2025)*  
+  - **CGPA:** 7.95/10  
 
-- 💼 **Professional Experience:**  
-  **Data Science Intern at Upflairs Pvt Ltd** (June 2024 – August 2024)  
-  - Developed and deployed ML and deep learning models to boost predictive accuracy.  
-  - Built and maintained data pipelines for optimized performance.  
+- **Class 12th (PCBM)**  
+  **Saraswati Vidhya Peeth SR SEC School, Sikar**  
+  *(Mar 2020 – Mar 2021)*  
+  - **Percentage:** 91%  
+
+- **Class 10th**  
+  **Lords International School, Rajgarh**  
+  *(Mar 2018 – Mar 2019)*  
+  - **Percentage:** 71.3%  
+
+### 💼 Professional Experience  
+- **Data Science Intern**  
+  **Upflairs Pvt Ltd, Jaipur**  
+  *(June 2024 – August 2024)*  
+  - Developed and deployed machine learning and deep learning models, enhancing predictive accuracy for real-world applications.  
+  - Collaborated with a team to build and maintain data pipelines, improving overall operational efficiency.  
 
 ---
 
@@ -56,9 +70,9 @@ Welcome to my portfolio! 🚀 I'm an aspiring **Data Scientist** passionate abou
 
 | **Project Name**                     | **Description**                                                                                                           | **Tech Stack**                        |  
 |--------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------|  
-| 🩺 [**Diabetes Risk Prediction System**](https://github.com/Harshit-Kandoi/diabetes-risk-prediction) | Building a classifier to predict diabetes risk using patient health metrics.                                               | Python, Pandas, Scikit-learn          |  
-| 📊 [**Stock Market Price Predictor**](https://github.com/Harshit-Kandoi/stock-predictor) | Developing a time series forecasting model for stock price prediction using historical data.                               | Python, TensorFlow, NumPy, Pandas     |  
-| 🛍️ [**E-commerce Sentiment Analyzer**](https://github.com/Harshit-Kandoi/sentiment-analysis) | Creating an NLP-based model to analyze customer sentiment in e-commerce product reviews.                                   | Python, NLTK, Scikit-learn            |  
+| 🤖 [**Fashion Recommender System**] | A personalized fashion recommender system which is leveraging collaborative and content-based filtering by suggesting the similar products of your liking .                                               | Python, Pandas, Scikit-learn          |  
+| 📊 [**Stock Market Price Predictor**] | Developing a time series forecasting model for stock price prediction using historical data.                               | Python, TensorFlow, NumPy, Pandas     |  
+| 🛍️ [**E-commerce Sentiment Analyzer**] | Creating an NLP-based model to analyze customer sentiment in e-commerce product reviews.                                   | Python, NLTK, Scikit-learn            |  
 
 ---
 
@@ -71,17 +85,6 @@ Welcome to my portfolio! 🚀 I'm an aspiring **Data Scientist** passionate abou
 
 ---
 
-## 📬 Contact Me  
-
-I am open to collaborations, freelance opportunities, and internships! Reach out to me via:  
-
-- 📞 **Phone:** +91-7850098453  
-- 📧 **Email:** [kandoiharshitsdlp@gmail.com](mailto:kandoiharshitsdlp@gmail.com)  
-- 💼 **GitHub:** [Harshit-Kandoi](https://github.com/Harshit-Kandoi)  
-- 🔗 **LinkedIn:** [Harshit Kandoi](https://www.linkedin.com/in/harshit-kandoi-007860210/)  
-
----
-
 ## 🔥 Let’s Connect!  
 
 If you find my projects interesting or have feedback, feel free to connect or contribute! 😊
@@ -91,8 +94,9 @@ If you find my projects interesting or have feedback, feel free to connect or co
 
 ---
 
-## 🛠️ How to Use This Repository  
+## 📬 Contact Me  
 
-1. Clone the repository to your local machine:  
-   ```bash  
-   git clone https://github.com/Harshit-Kandoi/Portfolio.git  
+I am open to collaborations, freelance opportunities, and internships! Reach out to me via:  
+
+- 📞 **Phone:** +91-7850098453  
+- 📧 **Email:** [kandoiharshitsdlp@gmail.com](mailto:kandoiharshitsdlp@gmail.com)  
