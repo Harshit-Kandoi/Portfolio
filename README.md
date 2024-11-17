@@ -1,21 +1,27 @@
-## **Aspiring Data Scientist**   👨‍💻📊  
-![Python](https://img.shields.io/badge/Python-Expert-brightgreen) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enthusiast-blue) ![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)  
-
-Welcome to my portfolio! 🚀 I'm an aspiring **Data Scientist** passionate about building **data-driven solutions** to solve real-world problems. With hands-on experience in **Machine Learning, Deep Learning**, and **Data Analysis**, I strive to craft innovative projects that bring measurable impact.  
+## **Welcome To My Portfolio**   👨‍💻📊  
+🌐 [Visit My GitHub Profile](https://github.com/Harshit-Kandoi)
+📄 [Download My Resume](https://github.com/Harshit-Kandoi/Portfolio/assets/Resume.pdf)
 
 ---
 
-## 🌟 Table of Contents  
-1. [About Me](#-about-me)  
-2. [Skills](#-technical-skills)  
-3. [Featured Projects](#-featured-projects)  
-4. [Ongoing Projects](#-ongoing-projects)  
-5. [Certifications](#-certifications)  
-6. [Contact Me](#-contact-me)  
+## 🌟 Check Out My Portfolio
+1. [About Me](#-about-me)
+2. [Education](#education)
+3. [Experience](#experience)
+4. [Skills](#-technical-skills)  
+5. [Featured Projects](#-featured-projects)  
+6. [Ongoing Projects](#-ongoing-projects)  
+7. [Certifications](#-certifications)  
+8. [Contact Me](#-contact-me)  
 
 ---
 
 ## 🙋 About Me  
+
+🚀 I'm an aspiring **Data Scientist** passionate about building **data-driven solutions** to solve real-world problems. With hands-on experience in **Machine Learning, Deep Learning**, and **Data Analysis**, I strive to craft innovative projects that bring measurable impact.
+
+![Python](https://img.shields.io/badge/Python-Expert-brightgreen) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enthusiast-blue) ![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)  
+---
 
 ### 🎓 Education  
 - **B.Tech in Computer Science and Engineering (Data Science)**  
