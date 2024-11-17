@@ -7,18 +7,5 @@ logo: /assets/Circle_2.png
 description: >
   Aspiring Data Scientist passionate about building data-driven solutions.
 
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal
-
-# Include Font Awesome icons and header buttons
-include_in_head: |
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-
-header:
-  custom_html: |
-    <a href="https://github.com/Harshit-Kandoi" style="background-color: #24292e; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; margin-right: 10px;">
-      <i class="fab fa-github"></i> GitHub Profile
-    </a>
-    <a href="https://github.com/Harshit-Kandoi/Portfolio/assets/Resume.pdf" style="background-color: #0366d6; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">
-      <i class="fas fa-file-alt"></i> Download Resume
-    </a>
