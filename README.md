@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 Check Out My Portfolio
-Watch the video [(https://img.youtube.com/vi/YourVideoID/maxresdefault.jpg)][(https://www.youtube.com/watch?v=YourVideoID)](https://youtu.be/SAeuxIRX4Dc)
+[![Watch the video](https://img.youtube.com/vi/SAeuxIRX4Dc/maxresdefault.jpg)](https://youtu.be/SAeuxIRX4Dc)
 🌐 [Visit My GitHub Profile](https://github.com/Harshit-Kandoi)
 📄 [Download My Resume](https://github.com/Harshit-Kandoi/Portfolio/assets/Resume.pdf)
 
