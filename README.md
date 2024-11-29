@@ -41,7 +41,7 @@
 - **Class 10th**  
   **Lords International School, Rajgarh**  
   *(Mar 2018 – Mar 2019)*  
-  - **Percentage:** 71.3%  
+  - **Percentage:** 73.1%  
 
 ### 💼 Professional Experience  
 - **Data Science Intern**  
