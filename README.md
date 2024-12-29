@@ -101,7 +101,7 @@ In addition to technical expertise, I bring a collaborative mindset, ensuring se
 If you find my projects interesting or have feedback, feel free to connect or contribute! 😊
 
 [![GitHub](https://img.shields.io/badge/Visit-My%20GitHub-black)](https://github.com/Harshit-Kandoi)  
-[![LinkedIn](https://img.shields.io/badge/Connect-On%20LinkedIn-blue)](https://www.linkedin.com/in/harshit-kandoi-007860210/)  
+[![LinkedIn](https://img.shields.io/badge/Connect-On%20LinkedIn-blue)](https://www.linkedin.com/in/harshit-kandoi/)  
 
 ---
 
