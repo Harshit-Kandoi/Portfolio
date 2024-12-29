@@ -20,7 +20,11 @@
 
 ## 🙋 About Me  
 
-🚀 I'm an aspiring **Data Scientist** passionate about building **data-driven solutions** to solve real-world problems. With hands-on experience in **Machine Learning, Deep Learning**, and **Data Analysis**, I strive to craft innovative projects that bring measurable impact.
+🚀 I am a passionate **Data Scientist** dedicated to leveraging the power of data to drive impactful solutions for real-world challenges. My journey in **Machine Learning**, **Deep Learning**, and **Data Analysis** has allowed me to develop a strong foundation in building predictive models and actionable insights.
+
+I am motivated by the transformative potential of data and thrive on unraveling complex problems, turning raw information into meaningful outcomes. Whether it’s creating personalized recommendations or predictive analytics, I aim to craft solutions that improve decision-making, efficiency, and user experience.
+
+In addition to technical expertise, I bring a collaborative mindset, ensuring seamless teamwork and effective communication in all my projects. I continuously seek opportunities to enhance my skills and stay updated with emerging trends, striving to make a tangible difference in industries like healthcare, finance, and e-commerce.
 
 ![Python](https://img.shields.io/badge/Python-Expert-brightgreen) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enthusiast-blue) ![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)  
 ---
@@ -29,24 +33,23 @@
 - **B.Tech in Computer Science and Engineering (Data Science)**  
   **B.K. Birla Institute of Engineering and Technology, Pilani**  
   *(Sept 2021 – Aug 2025)*  
-  - **CGPA:** 7.95/10  
 
 - **Class 12th (PCBM)**  
   **Saraswati Vidhya Peeth SR SEC School, Sikar**  
   *(Mar 2020 – Mar 2021)*  
-  - **Percentage:** 91%  
 
 - **Class 10th**  
   **Lords International School, Rajgarh**  
-  *(Mar 2018 – Mar 2019)*  
-  - **Percentage:** 73.1%  
+  *(Mar 2018 – Mar 2019)*   
 
 ### 💼 Professional Experience  
 - **Data Science Intern**  
   **Upflairs Pvt Ltd, Jaipur**  
   *(June 2024 – August 2024)*  
-  - Developed and deployed machine learning and deep learning models, enhancing predictive accuracy for real-world applications.  
-  - Collaborated with a team to build and maintain data pipelines, improving overall operational efficiency.  
+  - Collaborated with a team of 3 interns to design and deploy machine learning and deep learning models, including a Crop Classification Model for predicting crop suitability using agricultural and environmental data.
+  - Provided technical support to teammates, sharing knowledge and best practices to enhance the overall quality of projects.
+  - Contributed to the development of innovative solutions targeting real-world problems, ensuring practical applications of machine learning techniques.
+  - Engaged with stakeholders to gather project requirements and delivered insights aligned with business objectives, showcasing the impact of data-driven approaches. 
 
 ---
 
@@ -64,13 +67,13 @@
 
 ## 📂 Featured Projects  
 
-| **Project Name**                     | **Description**                                                                                                                                       | **Tech Stack**                        |  
-|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|  
-| 🎥 [**Movie Recommendation System**](https://github.com/Harshit-Kandoi/movie-recommender) | A personalized movie recommender leveraging collaborative and content-based filtering.                                                               | Python, Streamlit, Kaggle             |  
-| 🌱 [**Crop Classification Model**](https://github.com/Harshit-Kandoi/crops) | Predicts crop suitability using agricultural and environmental data.                                                                                 | Python, Pandas, Scikit-learn          |  
-| 📧 [**Email Spam or Ham Classifier**](https://github.com/Harshit-Kandoi/upflairs/tree/main/email) | Classifies emails into spam or ham using advanced natural language processing.                                                                       | Python, NLTK, Scikit-learn            |  
-| 💳 [**Credit Card Financial Dashboard**](https://github.com/Harshit-Kandoi/Credit-Card-Financial-Dashboard) | An interactive Power BI dashboard for monitoring credit card financial metrics.                                                                     | Power BI, Tableau, Python             |  
-| ✅ [**Flask To-Do Application**](https://github.com/Harshit-Kandoi/flask---Todo-website) | A web-based to-do app for managing daily tasks effectively.                                                                                         | Flask, HTML, CSS, SQLite              |  
+| **Project Name**                  | **Description**                                                                                                                                                  | **Tech Stack**                        | **GitHub Repo**                                                                            |  
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------------------------------------------------------------------------------------|  
+| 🎥 **Movie Recommendation System** | Developed a personalized movie recommender using collaborative and content-based filtering, enabling users to receive tailored recommendations based on their preferences. | Python, Streamlit, Kaggle             | [View Repository](https://github.com/Harshit-Kandoi/movie-recommender)                    |  
+| 🌱 **Crop Classification Model**   | Designed a predictive model to determine crop suitability using agricultural and environmental data, assisting farmers in making data-driven cultivation decisions. | Python, Pandas, Scikit-learn          | [View Repository](https://github.com/Harshit-Kandoi/crops)                                |  
+| 📧 **Email Spam or Ham Classifier**| Built an email classification system using natural language processing techniques to filter out spam emails and prioritize relevant communication effectively.   | Python, NLTK, Scikit-learn            | [View Repository](https://github.com/Harshit-Kandoi/upflairs/tree/main/email)             |  
+| 💳 **Credit Card Financial Dashboard** | Created an interactive Power BI dashboard to monitor and analyze key financial metrics related to credit card usage, providing actionable insights for decision-making. | Power BI, Tableau, Python             | [View Repository](https://github.com/Harshit-Kandoi/Credit-Card-Financial-Dashboard)      |  
+| ✅ **Flask To-Do Application**     | Developed a web-based to-do application to help users organize and manage their daily tasks efficiently, featuring a clean and intuitive user interface.           | Flask, HTML, CSS, SQLite              | [View Repository](https://github.com/Harshit-Kandoi/flask---Todo-website)                 |  
 
 ---
 
@@ -86,10 +89,10 @@
 
 ## 🎓 Certifications  
 
-| **Certification**                      | **Institution**              | **Date**             |  
-|---------------------------------------|-----------------------------|---------------------|  
-| Machine Learning A-Z                  | Udemy                       | June 2023 – June 2024 |  
-| 100 Days of Code: Python Bootcamp     | Udemy                       | Jan 2023 – June 2023  |  
+| **Certification**                      | **Date**             |  
+|---------------------------------------|---------------------|  
+| Machine Learning A-Z                  | June 2023 – June 2024 |  
+| 100 Days of Code: Python Bootcamp     | Jan 2023 – June 2023  |  
 
 ---
 
