@@ -20,7 +20,7 @@
 
 ## 🙋 About Me  
 
-🚀 I am a passionate **Data Scientist** dedicated to leveraging the power of data to drive impactful solutions for real-world challenges. My journey in **Machine Learning**, **Deep Learning**, and **Data Analysis** has allowed me to develop a strong foundation in building predictive models and actionable insights.
+🚀 I am a passionate **Data Scientist** dedicated to leveraging the power of data to drive impactful solutions for real-world challenges. My journey in **Machine Learning**, **Deep Learning**, and **Data Analysis** has allowed me to develop a strong foundation for building predictive models and actionable insights.
 
 I am motivated by the transformative potential of data and thrive on unraveling complex problems, turning raw information into meaningful outcomes. Whether it’s creating personalized recommendations or predictive analytics, I aim to craft solutions that improve decision-making, efficiency, and user experience.
 
@@ -71,8 +71,7 @@ In addition to technical expertise, I bring a collaborative mindset, ensuring se
 |-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------------------------------------------------------------------------------------|  
 | 🎥 **Movie Recommendation System** | Developed a personalized movie recommender using collaborative and content-based filtering, enabling users to receive tailored recommendations based on their preferences. | Python, Streamlit, Kaggle             | [View Repository](https://github.com/Harshit-Kandoi/movie-recommender)                    |  
 | 🌱 **Crop Classification Model**   | Designed a predictive model to determine crop suitability using agricultural and environmental data, assisting farmers in making data-driven cultivation decisions. | Python, Pandas, Scikit-learn          | [View Repository](https://github.com/Harshit-Kandoi/crops)                                |  
-| 🎙️ **Whisper Transcription App**| Developed an AI-powered speech-to-text transcription tool using OpenAI’s Whisper model.   |Python, Flask, Whisper AI, HTML, CSS, JavaScript
-| [View Repository](https://github.com/Harshit-Kandoi/Transcription)             |  
+| 🎙️ **Whisper Transcription App**| Developed an AI-powered speech-to-text transcription tool using OpenAI’s Whisper model.   |Python, Flask, Whisper AI, HTML, CSS, JavaScript [View Repository](https://github.com/Harshit-Kandoi/Transcription)             |  
 | 💳 **Credit Card Financial Dashboard** | Created an interactive Power BI dashboard to monitor and analyze key financial metrics related to credit card usage, providing actionable insights for decision-making. | Power BI, Tableau, Python             | [View Repository](https://github.com/Harshit-Kandoi/Credit-Card-Financial-Dashboard)      |  
 | ✅ **Flask To-Do Application**     | Developed a web-based to-do application to help users organize and manage their daily tasks efficiently, featuring a clean and intuitive user interface.           | Flask, HTML, CSS, SQLite              | [View Repository](https://github.com/Harshit-Kandoi/flask---Todo-website)                 |  
 
